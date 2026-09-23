@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// leetcode 485
+// leetcode 485 problem
 
 int main()
 {
